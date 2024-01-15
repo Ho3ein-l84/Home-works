@@ -12,5 +12,5 @@ cin>>n;
 while (Q>n){
 	Q=m-n;
 }
-cout<<"Left over Division: "<<Q;
+cout<<"Left over of Division: "<<Q;
  }
